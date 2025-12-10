@@ -3,7 +3,7 @@
 Classic Flappy Bird clone with neon dark theme, buttery-smooth 60fps, mobile touch, local high-score.  
 Zero ads, 100% open source & offline playable!
 
-Live Demo → https://aidu1001.github.io/flappy-bird-vrgame8-edition/
+Live Demo → https://topfreegame.github.io/flappy-bird-vrgame8-edition/
 
 ## Features
 - Infinite scrolling pipes
