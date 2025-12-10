@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flappy Bird Dark Edition - Free on VRGame8.com</title>
+  <meta name="description" content="Classic Flappy Bird remake with dark neon theme. 100% free, no ads, mobile-friendly!">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="icon.png">
+</head>
+<body>
+  <div class="container">
+    <h1>Flappy Bird</h1>
+    <canvas id="gameCanvas" width="400" height="600"></canvas>
+    <div class="score-container">
+      Score: <span id="score">0</span> | Best: <span id="best">0</span>
+    </div>
+    <p class="message" id="message"></p>
+    <button id="restartBtn" onclick="restart()" style="display:none;">Play Again</button>
+    
+    <div class="footer">
+      More free HTML5 & VR games → <a href="https://vrgame8.com" target="_blank" rel="noopener noreferrer">VRGame8.com</a>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
